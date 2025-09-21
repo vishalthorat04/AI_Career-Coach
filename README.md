@@ -5,7 +5,7 @@ It blends **Artificial Intelligence, Machine Learning, and Natural Language Proc
 
 The prototype is implemented as a **static web application** using **HTML, CSS, and JavaScript**, making it easy to access, deploy, and extend.  
 
----
+
 
 ## 📖 Table of Contents
 1. [Introduction](#-introduction)  
